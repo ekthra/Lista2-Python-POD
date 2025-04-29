@@ -41,11 +41,11 @@ Aprender e praticar os fundamentos da POO, como definição de classes, atributo
 
   1. Clone o repositório:
 
-    git clone https://github.com/ekthra/Lista2-Python.git
+    git clone https://github.com/ekthra/Lista2-Python-POO.git
 
   2.Acesse a pasta do projeto:
 
-    cd lista-python-poo
+    cd Lista2-Python-POO
 
   3.Execute o arquivo com Python 3:
 
